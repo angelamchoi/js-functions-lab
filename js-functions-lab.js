@@ -89,4 +89,8 @@ function stringsLongerThan(arr, len) {
     });
 };
 
+<<<<<<< HEAD
 console.log(stringsLongerThan(['say', 'hello', 'in', 'the', 'morning'], 3));
+=======
+console.log(stringsLongerThan(['say', 'hello', 'in', 'the', 'morning'], 3));
+>>>>>>> 97c3e80c920ee0a770bf8aaff713df4b0da73abb
